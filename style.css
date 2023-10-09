@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(16, 25, 40);
+}
+.Day-1 {
+    color: rgb(206, 206, 206);
+}
+
+.text-1 {
+    font-size: 30px;
+}
+.img {
+    height: 400px;
+    background-image: url('https://images.unsplash.com/photo-1653569580672-62c174b08e5f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fGNsZWFyJTIwbmlnaHR8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=500&q=60');
+    background-size: cover;
+}
+.text-2 {
+    font-size: 15px;
+}
+
+.text-3 {
+    font-size: 60px;
+}
+.Day-2 {
+    color: rgb(206, 206, 206);
+}
+
+.text-4 {
+    font-size: 30px;
+}
+.img-1 {
+    height: 400px;
+    background-image: url('https://imgs.search.brave.com/efBzkf9wZkRUf4XM6P0zuSVIKN1-2vchUH64zDChnFQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTYy/ODkxMDc5L3Bob3Rv/L3BhcmtpbmctbG90/LWluLXJhaW4uanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPTdM/V0R1WVpGM1JsdzFJ/Q1pFOVNMZEh2ZUJz/MXBoc1pVT09rT1da/UWd5dlU9');
+    background-size: cover;
+}
+.text-5 {
+    font-size: 15px;
+}
+
+.text-6 {
+    font-size: 60px;
+}
